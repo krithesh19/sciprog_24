@@ -39,10 +39,10 @@ int main(void) {
        binnum[j] = aux;
     }
 
-/* TODO: Complete the expression */
-/*   numdigits = ceil(...);
+/* TODO: Complete the expression */ 
+   numdigits = ceil(logf(fnum)/logf(2));
    printf("The number of digits is %d\n",numdigits);
-*/
+
    printf("inum=%d,  fnum=%f, inum in binary=%s\n",inum,fnum,binnum);
 
    return 0;
