@@ -44,6 +44,6 @@ gcc main.c -o practical4 -lm
 
 ./practical4
 
-Sample Output:
+ ### Output:
 
-The program will display the tangent values and the calculated area:
+The program will display the tangent values and the calculated area: xyz
