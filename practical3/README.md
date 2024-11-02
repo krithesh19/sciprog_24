@@ -9,10 +9,14 @@ Practical.c: Contains the code for calculating the area using the trapezoidal ru
 ### Explanation of Key Variables
 
 m: Lower bound of integration, set to 0.
+
 n: Upper bound of integration, set to π/3.
+
 N: Number of points used in the trapezoidal approximation, set to 12.
+
 h: Width of each subinterval.
-How It Works
+
+### How It Works
 
 Initialization: Sets values for m, n, and N, and calculates h (the width of each subinterval).
 
