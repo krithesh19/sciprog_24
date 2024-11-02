@@ -43,7 +43,7 @@ diff
 
 Enter precision delta: 0.1
 
-   x        artanh1(x)       artanh2(x)       Difference
+x          artanh1(x)         artanh2(x)        Difference
 
 -0.90      -1.2610980000    -1.4722194896     0.2111214896
 
