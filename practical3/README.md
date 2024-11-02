@@ -22,9 +22,13 @@ Initialization: Sets values for m, n, and N, and calculates h (the width of each
 
 ### Trapezoidal Rule Calculation:
 Adds the function values at the endpoints x = 0 and x = π/3.
+
 For each interior point, evaluates f(x) = tan(x) and adds twice its value to the sum, as required by the trapezoidal rule.
+
 Integral Approximation: Multiplies the sum by (n - m) / [2 * (N - 1)] to obtain the integral approximation.
+
 Difference Calculation: Computes the difference between the computed integral and the expected value ln(2), displaying this difference as a measure of accuracy.
+
 Expected Output The program outputs the absolute difference between the computed integral and the exact value ln(2).
 
 ### Compilation and Execution To compile and run the program:
