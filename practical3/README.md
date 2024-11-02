@@ -36,6 +36,7 @@ Expected Output The program outputs the absolute difference between the computed
 bash
 
 gcc Practical.c -o practical
+
 ./practical
 
 This output provides an indication of the accuracy of the trapezoidal approximation compared to the exact value of the integral.
