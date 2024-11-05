@@ -13,13 +13,13 @@ We use dynamic memory to store the terms of the series and calculate the result.
 ## Part 2: Pointer Operations and Memory Allocation
 This part shows how to:
 
-Dynamically allocate memory for an array.
+*Dynamically allocate memory for an array.
 
-Fill the array with ones.
+*Fill the array with ones.
 
-Print the array.
+*Print the array.
 
-Free the memory to avoid memory leaks.
+*Free the memory to avoid memory leaks.
 
 ## Files
 
