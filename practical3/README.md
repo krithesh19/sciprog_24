@@ -1,107 +1,42 @@
-# Practical 3 - Description
+# Practical 3: Calculating the Area Under f(x) = tan(x) Using the Trapezoidal Rule
 
+This program approximates the area under the curve of f(x) = tan(x) from x = 0 to x = π/3 using the trapezoidal rule with N = 12 points. The trapezoidal rule calculates the integral by dividing the area under the curve into trapezoids and then summing their areas.
 
-Practical 3: Calculating the Area Under 
-𝑓
-(
-𝑥
-)
-=
-tan
-⁡
-(
-𝑥
-)
-f(x)=tan(x) Using the Trapezoidal Rule
-This program calculates the area under the curve 
-𝑓
-(
-𝑥
-)
-=
-tan
-⁡
-(
-𝑥
-)
-f(x)=tan(x) from 
-𝑥
-=
-0
-x=0 to 
-𝑥
-=
-𝜋
-/
-3
-x=π/3 using the trapezoidal rule with 
-𝑁
-=
-12
-N=12 points. The trapezoidal rule approximates the integral by dividing the area under the curve into trapezoids, calculating their areas, and summing them.
+### Files
 
-Files
 Practical.c: Contains the code for calculating the area using the trapezoidal rule.
-Explanation of Key Variables
-m: The lower bound of integration, set to 0.
-n: The upper bound of integration, set to 
-𝜋
-/
-3
-π/3.
-N: The number of points used in the trapezoidal approximation, set to 12.
-h: The width of each subinterval.
-How It Works
-Initialization: The values of m, n, and N are set, and h (the width of each subinterval) is calculated.
-Trapezoidal Rule Calculation:
-The function values at the endpoints 
-𝑥
-=
-0
-x=0 and 
-𝑥
-=
-𝜋
-/
-3
-x=π/3 are added first.
-For each interior point, the function 
-𝑓
-(
-𝑥
-)
-=
-tan
-⁡
-(
-𝑥
-)
-f(x)=tan(x) is evaluated, and twice its value is added to the sum (as required by the trapezoidal rule).
-Integral Approximation: The sum is multiplied by the interval width over 2 to obtain the integral approximation.
-Difference Calculation: The difference between the computed integral and the expected value 
-ln
-⁡
-(
-2
-)
-ln(2) is calculated and displayed.
-Expected Output
-The program will output the absolute difference between the computed integral and the exact value 
-ln
-⁡
-(
-2
-)
-ln(2):
 
-makefile
-Copy code
-Difference: <value>
-Compilation and Execution
-To compile and run the program:
+### Explanation of Key Variables
+
+m: Lower bound of integration, set to 0.
+
+n: Upper bound of integration, set to π/3.
+
+N: Number of points used in the trapezoidal approximation, set to 12.
+
+h: Width of each subinterval.
+
+### How It Works
+
+Initialization: Sets values for m, n, and N, and calculates h (the width of each subinterval).
+
+### Trapezoidal Rule Calculation:
+Adds the function values at the endpoints x = 0 and x = π/3.
+
+For each interior point, evaluates f(x) = tan(x) and adds twice its value to the sum, as required by the trapezoidal rule.
+
+Integral Approximation: Multiplies the sum by (n - m) / [2 * (N - 1)] to obtain the integral approximation.
+
+Difference Calculation: Computes the difference between the computed integral and the expected value ln(2), displaying this difference as a measure of accuracy.
+
+Expected Output The program outputs the absolute difference between the computed integral and the exact value ln(2).
+
+### Compilation and Execution To compile and run the program:
 
 bash
-Copy code
+
 gcc Practical.c -o practical
+
 ./practical
-This output gives an indication of the accuracy of the trapezoidal approximation compared to the exact value of the integral.
+
+This output provides an indication of the accuracy of the trapezoidal approximation compared to the exact value of the integral.
