@@ -1,0 +1,22 @@
+# Compiled object files
+*.o
+
+# Compiled binary files
+*.exe
+*.out
+
+# Temporary files
+*~
+*.swp
+
+# Debug logs
+*.log
+
+# macOS system files
+.DS_Store
+
+# Windows system files
+Thumbs.db
+
+# IDE-specific files
+.vscode/
