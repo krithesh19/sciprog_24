@@ -50,6 +50,4 @@ To compile and run the program, follow these steps:
  ```bash
    make clean
 
-    ```bash
-    
-    make clean
+ 
