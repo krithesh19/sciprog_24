@@ -47,5 +47,9 @@ To compile and run the program, follow these steps:
    ./matmult_program
 
 3.Clean up object files and executable:
+ ```bash
+   make clean
+
     ```bash
+    
     make clean
