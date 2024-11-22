@@ -51,13 +51,15 @@ x artanh1(x) artanh2(x) Difference
 
 ## Compilation and Execution
 
-### **1. Fibonacci Series**
+### *1. Fibonacci Series** and 
+### ** 2. Hyperbolic Tangent Comparison **
+
 To compile and run the Fibonacci series program:
 ```bash
 gcc fibonacciseries.c -o fibonacci
 ./fibonacci
 
-### **1. Hyperbolic Tangent Comparison **
+### **2. Hyperbolic Tangent Comparison **
 gcc hyperbolictangent.c -o hyperbolic_tangent
 ./hyperbolic_tangent
 
