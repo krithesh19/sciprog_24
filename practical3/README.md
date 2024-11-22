@@ -1,42 +1,63 @@
 # Practical 3: Calculating the Area Under f(x) = tan(x) Using the Trapezoidal Rule
 
-This program approximates the area under the curve of f(x) = tan(x) from x = 0 to x = π/3 using the trapezoidal rule with N = 12 points. The trapezoidal rule calculates the integral by dividing the area under the curve into trapezoids and then summing their areas.
+This program approximates the area under the curve of \(f(x) = \tan(x)\) over the interval \([0, \pi/3]\) using the **Trapezoidal Rule** with \(N = 12\) points. The trapezoidal rule divides the area under the curve into small trapezoids, sums their areas, and calculates an approximate integral.
 
-### Files
+---
 
-Practical.c: Contains the code for calculating the area using the trapezoidal rule.
+## Files
 
-### Explanation of Key Variables
+- **`practical.c`**: Contains the implementation of the trapezoidal rule to calculate the area under \(f(x) = \tan(x)\).
 
-m: Lower bound of integration, set to 0.
+---
 
-n: Upper bound of integration, set to π/3.
+## Key Variables
 
-N: Number of points used in the trapezoidal approximation, set to 12.
+1. **`m`**: Lower bound of integration (\(x = 0\)).
+2. **`n`**: Upper bound of integration (\(x = \pi/3\)).
+3. **`N`**: Number of points used in the trapezoidal approximation (set to 12).
+4. **`h`**: Width of each subinterval, calculated as:
+   \[
+   h = \frac{n - m}{N - 1}
+   \]
 
-h: Width of each subinterval.
+---
 
-### How It Works
+## How It Works
 
-Initialization: Sets values for m, n, and N, and calculates h (the width of each subinterval).
+### 1. **Initialization**
+- Set values for \(m\), \(n\), and \(N\).
+- Calculate \(h\), the width of each subinterval.
 
-### Trapezoidal Rule Calculation:
-Adds the function values at the endpoints x = 0 and x = π/3.
+### 2. **Trapezoidal Rule Calculation**
+- **Step 1**: Add the values of \(f(x)\) at the endpoints (\(x = 0\) and \(x = \pi/3\)).
+- **Step 2**: Loop through all interior points and add \(2 \cdot f(x)\) for each \(x\) to the sum, as per the trapezoidal rule.
+- **Step 3**: Multiply the final sum by:
+  \[
+  \text{Area} = \frac{h}{2} \cdot \text{Sum}
+  \]
+  to compute the approximate integral.
 
-For each interior point, evaluates f(x) = tan(x) and adds twice its value to the sum, as required by the trapezoidal rule.
+### 3. **Difference Calculation**
+- Compute the difference between the computed integral and the expected value \(\ln(2)\).
+- Display the absolute difference as a measure of accuracy.
 
-Integral Approximation: Multiplies the sum by (n - m) / [2 * (N - 1)] to obtain the integral approximation.
+---
 
-Difference Calculation: Computes the difference between the computed integral and the expected value ln(2), displaying this difference as a measure of accuracy.
+## Example Output
 
-Expected Output The program outputs the absolute difference between the computed integral and the exact value ln(2).
+### Expected Output
+The program outputs:
+1. The approximate value of the integral.
+2. The absolute difference between the computed integral and the exact value \(\ln(2)\).
 
-### Compilation and Execution To compile and run the program:
+Example:
+Approximate Integral: 0.693147 Difference from ln(2): 0.000001
 
-bash
 
-gcc Practical.c -o practical
+---
 
+### Compilation
+```bash
+gcc practical.c -o practical -lm
 ./practical
 
-This output provides an indication of the accuracy of the trapezoidal approximation compared to the exact value of the integral.
