@@ -1,6 +1,6 @@
 # sciprog_24
 
-## Author: Sarosh Farhan
+## Author: Kritheshvar
 ## Institution: University College Dublin
 
 This repository contains practical assignments for a Scientific Programming course. Each folder represents a different practical exercise, with code implementations, explanations, and examples related to various programming concepts and computational problems.
