@@ -48,4 +48,4 @@ To compile and run the program, follow these steps:
 
 3.Clean up object files and executable:
  ```bash
-   make clean
+   make clean 
