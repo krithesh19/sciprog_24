@@ -33,6 +33,11 @@ This repository contains practical assignments for a Scientific Programming cour
 - **[Practical 9](practical9/README.md)**: 
   Explores matrix operations and implements algorithms to validate magic squares.
 
+
+## Output Files:
+**gitlog_output.txt**: Contains the commit history of this repository.
+**gitstatus_output.txt**: Displays the current status of the repository.
+
 ---
 
 ## General Instructions
