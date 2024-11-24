@@ -1,0 +1,301 @@
+commit 667e96cc00694f29d167cac332adfeb70664fa75
+Author: krithesh19 <kritheshjr1907@gmail.com>
+Date:   Fri Nov 22 18:06:25 2024 +0000
+
+    Removed duplicate practical 4 folder
+
+commit e6c24d52ff971136c760cfeaea3452ebf921c67a
+Author: krithesh19 <kritheshjr1907@gmail.com>
+Date:   Tue Nov 19 14:02:17 2024 +0000
+
+    Add practical 9 folder
+
+commit 04ede533793a575c90c5680e8a0a1764992bb1c2
+Author: krithesh19 <kritheshjr1907@gmail.com>
+Date:   Tue Nov 19 13:59:55 2024 +0000
+
+    Delete practical 9 folder
+
+commit 5a6151de6b69f929ac0f263b2e4bc116cfc7a7a6
+Author: KRITHESH <121800781+krithesh19@users.noreply.github.com>
+Date:   Tue Nov 19 11:44:32 2024 +0000
+
+    Update README.md
+
+commit 1763e67bb9841ed6682a8450bd82bbc063b5bae0
+Author: KRITHESH <121800781+krithesh19@users.noreply.github.com>
+Date:   Tue Nov 19 11:42:29 2024 +0000
+
+    Create README.md
+
+commit 488bb2a92b5138e36ce715adb46048b1b1bccb30
+Merge: b4e84e8 a2e2546
+Author: krithesh19 <kritheshjr1907@gmail.com>
+Date:   Tue Nov 19 11:40:10 2024 +0000
+
+    Merge branch 'main' of https://github.com/krithesh19/sciprog_24
+
+commit b4e84e82265ed926fe42149908fcee92271922d1
+Author: krithesh19 <kritheshjr1907@gmail.com>
+Date:   Tue Nov 19 11:39:31 2024 +0000
+
+    Add Practical 9
+
+commit a2e25467b13249139f2d9ee281bd13c1e92aa1fe
+Author: KRITHESH <121800781+krithesh19@users.noreply.github.com>
+Date:   Tue Nov 12 17:22:06 2024 +0000
+
+    Update README.md
+
+commit 04d0078340ab4be25bc3c1b6d87000884fa49f19
+Author: KRITHESH <121800781+krithesh19@users.noreply.github.com>
+Date:   Tue Nov 12 17:19:25 2024 +0000
+
+    Create README.md
+
+commit ebc119c5dc2d5219ed7aa747c20d54458d677aa2
+Author: KRITHESH <121800781+krithesh19@users.noreply.github.com>
+Date:   Tue Nov 12 17:14:13 2024 +0000
+
+    Update README.md
+
+commit 317425ac8dd14c73b9f2deeadde22f0e0cbe7bcf
+Author: KRITHESH <121800781+krithesh19@users.noreply.github.com>
+Date:   Tue Nov 12 17:13:31 2024 +0000
+
+    Create README.md
+
+commit b0558510ee043b3e2f6eb159a8112c87717094d6
+Author: krithesh19 <kritheshjr1907@gmail.com>
+Date:   Tue Nov 12 17:03:05 2024 +0000
+
+    Remove Practical7_part1.c and Practical7_part2.c from the repository
+
+commit 508c84e19311115707ba823bbf08c8254219f03f
+Merge: ae2a64a 714e406
+Author: krithesh19 <kritheshjr1907@gmail.com>
+Date:   Tue Nov 12 16:58:16 2024 +0000
+
+    Merge branch 'main' of https://github.com/krithesh19/sciprog_24
+
+commit ae2a64a7f01e51420f658090af95b02ae7985b64
+Author: krithesh19 <kritheshjr1907@gmail.com>
+Date:   Tue Nov 12 16:57:15 2024 +0000
+
+    Add Practical 8 - GCD Calculation (Iterative and Recursive)
+
+commit 714e406cdf5045ea449768df8c76226b3553e5e5
+Author: KRITHESH <121800781+krithesh19@users.noreply.github.com>
+Date:   Tue Nov 5 14:44:15 2024 +0000
+
+    Update README.md
+
+commit afa490830183f01b024721cbbeecee88f39938e8
+Author: KRITHESH <121800781+krithesh19@users.noreply.github.com>
+Date:   Tue Nov 5 14:43:38 2024 +0000
+
+    Update README.md
+
+commit 6ccad39d0a2840c9b5433509ca73ee4d6f92001c
+Author: KRITHESH <121800781+krithesh19@users.noreply.github.com>
+Date:   Tue Nov 5 14:38:54 2024 +0000
+
+    Create README.md
+
+commit ab93982052965eb1480d13955fcabf2406dcb837
+Author: krithesh19 <kritheshjr1907@gmail.com>
+Date:   Tue Nov 5 14:38:02 2024 +0000
+
+    Move Practical 7 files into the practical 7 folder
+
+commit 8ac7efdeb6f91a71d768ecafdbd944681e017730
+Merge: 5c9d3dc 65100f3
+Author: krithesh19 <kritheshjr1907@gmail.com>
+Date:   Tue Nov 5 14:33:43 2024 +0000
+
+    Merge branch 'main' of https://github.com/krithesh19/sciprog_24
+
+commit 5c9d3dceef9a6988e774e0fbf917cc4b1a0e415b
+Author: krithesh19 <kritheshjr1907@gmail.com>
+Date:   Tue Nov 5 14:27:22 2024 +0000
+
+    Add Practical 7 - Estimation of e and Dynamic Memory Allocation
+
+commit 65100f33806ff9650a3a8fc04aef02c89c5c81d1
+Author: KRITHESH <121800781+krithesh19@users.noreply.github.com>
+Date:   Sat Nov 2 17:41:41 2024 +0000
+
+    Update README.md
+
+commit c77d8e30bd59881e904ebb3b244bf35da5554f72
+Author: KRITHESH <121800781+krithesh19@users.noreply.github.com>
+Date:   Sat Nov 2 17:37:08 2024 +0000
+
+    Update README.md
+
+commit 74887a57c4e69a6e48dfb2020d487145240914c4
+Author: KRITHESH <121800781+krithesh19@users.noreply.github.com>
+Date:   Sat Nov 2 17:36:22 2024 +0000
+
+    Update README.md
+
+commit fc06e2baffec7f03172fca0d42ab932fc2ed0ea5
+Author: KRITHESH <121800781+krithesh19@users.noreply.github.com>
+Date:   Sat Nov 2 17:29:41 2024 +0000
+
+    Update README.md
+
+commit d4ad3b6d4ea1621fca48c9af8c45b7d7fb0c6a52
+Author: KRITHESH <121800781+krithesh19@users.noreply.github.com>
+Date:   Sat Nov 2 17:22:26 2024 +0000
+
+    Update README.md
+
+commit af76fc4ac8f18587cbebee68d1c251bd487ef566
+Author: KRITHESH <121800781+krithesh19@users.noreply.github.com>
+Date:   Sat Nov 2 17:21:35 2024 +0000
+
+    Update README.md
+
+commit 90ae98ce7530320def5e80bde0e99104cea78739
+Author: KRITHESH <121800781+krithesh19@users.noreply.github.com>
+Date:   Sat Nov 2 17:20:38 2024 +0000
+
+    Update README.md
+
+commit 4b780f2e57875e610d332307583dcc0488c6bcd6
+Author: KRITHESH <121800781+krithesh19@users.noreply.github.com>
+Date:   Sat Nov 2 17:12:07 2024 +0000
+
+    Update README.md
+
+commit 347f7579f732d211671841af94bb2bdb47585bc1
+Author: KRITHESH <121800781+krithesh19@users.noreply.github.com>
+Date:   Sat Nov 2 17:11:45 2024 +0000
+
+    Update README.md
+
+commit 85e1cb47141705960bfe73e0115452e3b2c8cdd9
+Author: KRITHESH <121800781+krithesh19@users.noreply.github.com>
+Date:   Sat Nov 2 17:11:16 2024 +0000
+
+    Update README.md
+
+commit d314f51908f137b708531022b9f46894161560c3
+Author: KRITHESH <121800781+krithesh19@users.noreply.github.com>
+Date:   Sat Nov 2 17:10:14 2024 +0000
+
+    Update README.md
+
+commit 59b7369dbea8e53bf6d04701d5b276e559f8487c
+Author: KRITHESH <121800781+krithesh19@users.noreply.github.com>
+Date:   Sat Nov 2 16:59:38 2024 +0000
+
+    Create README.md
+
+commit b8c5c6ec76393fc59cc74d064249b0c520f60ceb
+Author: KRITHESH <121800781+krithesh19@users.noreply.github.com>
+Date:   Sat Nov 2 16:59:01 2024 +0000
+
+    Create README.md
+    
+    README file
+
+commit 80ea053ae01df887fb37ceaff94a26ff9fa50fdd
+Author: KRITHESH <121800781+krithesh19@users.noreply.github.com>
+Date:   Sat Nov 2 16:57:31 2024 +0000
+
+    Create README.md
+
+commit 9bdbf9a4f707fd8ba51ed1be06c677d312b2fd48
+Author: KRITHESH <121800781+krithesh19@users.noreply.github.com>
+Date:   Sat Nov 2 16:55:01 2024 +0000
+
+    Delete README.md
+
+commit 12ec1e93dc5e017c2f233442c5d36767b8d23f98
+Author: krithesh19 <kritheshjr1907@gmail.com>
+Date:   Sat Nov 2 16:52:30 2024 +0000
+
+    Move README.md into practical 4 folder
+
+commit 21e5de3afb28100b2dfb2dd1bfc591cd363ac2bd
+Author: krithesh19 <kritheshjr1907@gmail.com>
+Date:   Sat Nov 2 16:45:31 2024 +0000
+
+    Add README.md for Practical 4
+
+commit 2499f62806f2094c91e53297a286ede0c20fc8f8
+Author: krithesh19 <kritheshjr1907@gmail.com>
+Date:   Sat Nov 2 16:38:41 2024 +0000
+
+    Add README.md for Practical 3
+
+commit 2e0c60c90f7c12a822b77ef1f2392d9af8b74e0d
+Author: krithesh19 <kritheshjr1907@gmail.com>
+Date:   Sat Nov 2 16:26:56 2024 +0000
+
+    Add README.md for Practical 2
+
+commit ee0fa137bc28ef02f63fd2b51b1d6ff964c994f4
+Author: krithesh19 <kritheshjr1907@gmail.com>
+Date:   Sat Nov 2 16:05:16 2024 +0000
+
+    Move Practical4.c into practical4 folder
+
+commit 0a5053c83151715c27a53fb0ea1aefb03f86c706
+Author: krithesh19 <kritheshjr1907@gmail.com>
+Date:   Fri Nov 1 19:04:12 2024 +0000
+
+    practical 4
+
+commit 2141fa255e559ac656cf2b4957ad45087e096f04
+Author: krithesh19 <kritheshjr1907@gmail.com>
+Date:   Mon Oct 21 19:56:44 2024 +0100
+
+    Practical 3- Week 3
+
+commit e835decdf22ff13af4162fa0696d0e4838d6a588
+Author: KRITHESH <121800781+krithesh19@users.noreply.github.com>
+Date:   Mon Oct 21 18:40:32 2024 +0100
+
+    Update sum.c
+
+commit f1b2d6278a28ca1182335a0da13e8323156b7a63
+Author: KRITHESH <121800781+krithesh19@users.noreply.github.com>
+Date:   Mon Oct 21 18:36:12 2024 +0100
+
+    Update conversion.c
+
+commit 7b64d25d194cf8c2ba370327907ac1439a2d31e9
+Author: krithesh19 <kritheshjr1907@gmail.com>
+Date:   Mon Oct 21 17:51:56 2024 +0100
+
+    this folder contains week2 contents
+
+commit 8dd242cf1d7f751c75cf54afa3fb0c692219e65d
+Author: KRITHESH <121800781+krithesh19@users.noreply.github.com>
+Date:   Thu Oct 17 13:41:13 2024 +0100
+
+    Create README.md
+
+commit 03463a13c4a4e42cb2c75ac9aea648a9fab3ab50
+Merge: e927a13 ec32a2b
+Author: KRITHESH <121800781+krithesh19@users.noreply.github.com>
+Date:   Sat Nov 2 15:36:20 2024 +0000
+
+    Merge pull request #4 from krithesh19/practical6
+    
+    Adding Practical 6 source code files
+
+commit ec32a2b58a33cf9af71a4375a4993112dbd74e40
+Author: krithesh19 <kritheshjr1907@gmail.com>
+Date:   Sat Nov 2 15:35:30 2024 +0000
+
+    Adding Practical 6 source code files
+
+commit e927a132e53b3b3b17f9b324a574800c2975990a
+Author: krithesh19 <kritheshjr1907@gmail.com>
+Date:   Sat Nov 2 14:12:31 2024 +0000
+
+    Adding Practical 5 source code files
