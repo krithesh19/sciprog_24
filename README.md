@@ -35,7 +35,9 @@ This repository contains practical assignments for a Scientific Programming cour
 
 
 ## Output Files:
+
 **gitlog_output.txt**: Contains the commit history of this repository.
+
 **gitstatus_output.txt**: Displays the current status of the repository.
 
 ---
