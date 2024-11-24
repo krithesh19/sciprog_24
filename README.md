@@ -41,3 +41,7 @@ To compile and run any program:
 ```bash
 gcc filename.c -o output_name
 ./output_name
+
+Output Files:
+**gitlog_output.txt**: Contains the commit history of this repository.
+**gitstatus_output.txt**: Displays the current status of the repository.
