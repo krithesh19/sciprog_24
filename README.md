@@ -1,20 +1,43 @@
 # sciprog_24
 
+## Author: Kritheshvar
+## Institution: University College Dublin
+
 This repository contains practical assignments for a Scientific Programming course. Each folder represents a different practical exercise, with code implementations, explanations, and examples related to various programming concepts and computational problems.
+
+---
 
 ## Contents
 
-- **practical 2**: Exercises covering basic programming concepts and introductory problem-solving.
- 
--  **practical 5**: Covers more advanced control structures and basic algorithms.
+- **[Practical 2](practical2/README.md)**: 
+  Explores floating-point arithmetic and the limitations of precision, including series summation and conversion operations.
 
--  **practical 6**: Focuses on mathematical functions and iterative methods.
+- **[Practical 3](practical3/README.md)**: 
+  Focuses on control structures and basic programming patterns, including array manipulations and loops.
 
--  **practical 7**: Demonstrates estimation of mathematical constants and dynamic memory allocation.
+- **[Practical 4](practical4/README.md)**: 
+  Contains programs focused on file input/output operations, loops, and basic arithmetic functions.
 
--  **practical 8**: Implements algorithms for calculating the Greatest Common Divisor (GCD) using iterative and recursive methods.
+- **[Practical 5](practical5/README.md)**: 
+  Covers advanced control structures and introduces basic algorithms.
 
--  **practical3**: Contains exercises focusing on control structures and basic programming patterns.
+- **[Practical 6](practical6/README.md)**: 
+  Focuses on mathematical functions, iterative methods, and their applications in problem-solving.
 
-- **practical4**: Contains programs focused on I/O operations, loops, and basic arithmetic functions.
+- **[Practical 7](practical7/README.md)**: 
+  Demonstrates estimation of mathematical constants, dynamic memory allocation, and numerical computations.
 
+- **[Practical 8](practical8/README.md)**: 
+  Implements iterative and recursive algorithms for calculating the Greatest Common Divisor (GCD).
+
+- **[Practical 9](practical9/README.md)**: 
+  Explores matrix operations and implements algorithms to validate magic squares.
+
+---
+
+## General Instructions
+
+To compile and run any program:
+```bash
+gcc filename.c -o output_name
+./output_name

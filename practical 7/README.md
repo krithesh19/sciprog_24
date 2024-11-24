@@ -1,46 +1,49 @@
 # Practical 7 - Estimation of e and Dynamic Memory Allocation
 
 ## Overview
-This practical has two parts:
+This practical consists of two parts:
 
-## Part 1: Estimation of e
-In this part, we estimate the value of e using a series expansion:
+### Part 1: Estimation of \( e \)
+- In this part, the value of \( e \) is estimated using the series expansion:
+  \[
+  f(x) = 1 + x + \frac{x^2}{2!} + \frac{x^3}{3!} + \dots + \frac{x^n}{n!}
+  \]
+- Dynamic memory is used to store the terms of the series for computation.
+- The estimate is compared to the actual value of \( e \) to analyze the accuracy.
 
-f(x) = 1 + x + x^2/2! + x^3/3! + ... + x^n/n!
+### Part 2: Pointer Operations and Memory Allocation
+This part demonstrates the following:
+- Dynamically allocating memory for an array.
+- Filling the array with ones.
+- Printing the array.
+- Freeing the allocated memory to avoid memory leaks.
 
-We use dynamic memory to store the terms of the series and calculate the result. The estimate is compared to the actual value of e to see how accurate it is.
-
-## Part 2: Pointer Operations and Memory Allocation
-This part shows how to:
-
-*Dynamically allocate memory for an array.
-
-*Fill the array with ones.
-
-*Print the array.
-
-*Free the memory to avoid memory leaks.
+---
 
 ## Files
+- **`Practical7_part1.c`**: Contains the code for estimating \( e \).
+- **`Practical7_part2.c`**: Contains the code for dynamic memory allocation and pointer operations.
 
-### Practical7_part1.c: Code for estimating e.
-
-### Practical7_part2.c: Code for dynamic memory allocation and pointer operations.
+---
 
 ## How to Compile and Run
 
-### Part 1: Estimation of e
+### Part 1: Estimation of \( e \)
 
-Compile:
-
+To compile:
+```bash
 gcc -o practical7_part1 practical7_part1.c
 
+To run:
+```bash
 ./practical7_part1
 
 ### Part 2: Pointer Operations
 
-Compile:
-
+To compile:
+```bash
 gcc -o practical7_part2 practical7_part2.c
 
+To run:
+```bash
 ./practical7_part2

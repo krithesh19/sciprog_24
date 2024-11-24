@@ -1,11 +1,29 @@
 On branch main
-You are currently rebasing.
-  (all conflicts fixed: run "git rebase --continue")
+You have unmerged paths.
+  (fix conflicts and run "git commit")
+  (use "git merge --abort" to abort the merge)
+
+Changes to be committed:
+	modified:   README.md
+	modified:   practical 2/README.md
+	modified:   practical 5/README.md
+	modified:   practical 6/README.md
+	modified:   practical 7/README.md
+	new file:   practical 9/README.md
+	modified:   practical3/README.md
+	modified:   practical4/README.md
+
+Unmerged paths:
+  (use "git add <file>..." to mark resolution)
+	both added:      gitstatus_output.txt
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   gitlog_output.txt
 
 Untracked files:
   (use "git add <file>..." to include in what will be committed)
-	gitlog_output.txt
-	gitstatus_output.txt
 	practical 4/
 	practical 7/practical 2/
 	practical 7/practical 5/
@@ -15,4 +33,3 @@ Untracked files:
 	practical 7/practical4/
 	sciprog_24/
 
-nothing added to commit but untracked files present (use "git add" to track)
